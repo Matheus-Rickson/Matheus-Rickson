@@ -1,4 +1,4 @@
-### Olá! Muito prazer, Matheus Rickson! 🤙🏾 Tenho 21 anos e vivo no Brasil. 🇧🇷
+### Olá! Muito prazer, Matheus Rickson! 🤙🏾 Tenho 22 anos e vivo no Brasil. 🇧🇷
 ### Sou um jovem apaixonado por tecnologia, e encontrei nela, além de uma forma de renda, uma válvula de escape dos meus problemas. Sou um profissional que ama o que faz e entrega 200% de si para cumprir minhas metas. Atualmente sou estagiário na área de suporte técnico, mas almejo um emprego como desenvolvedor. Tenho domínio de React Native,JS, nodeJS entre outras tecnologias e busco, com elas, encontrar ares grandiosos na minha carreira.
 
 ### Contact Email👨🏾‍💻: Contato.rickson@outlook.com
